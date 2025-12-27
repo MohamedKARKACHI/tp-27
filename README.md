@@ -19,3 +19,8 @@ Scripts pour effectuer des tests de charge sur une API REST.
 - `book_id` / `BookId` : Identifiant de la ressource (défaut: 1)
 - `requests` / `Requests` : Nombre de requêtes (défaut: 50)
 # tp-27
+
+
+## Author
+
+- **Karkachi Mohamed**
